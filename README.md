@@ -19,7 +19,7 @@ Or download the zipped version from this repo.
 
 **Screenshots:**
 ![Sample Prediction](Screenshots/Accuracy%20graph.png)
-![Sample Prediction](Screenshots/prediction 1.png)
-![Sample Prediction](Screenshots/prediction 2.png)
-![Sample Prediction](Screenshots/prediction 3.png)
+![Sample Prediction](Screenshots/prediction%201.png)
+![Sample Prediction](Screenshots/prediction%202.png)
+![Sample Prediction](Screenshots/prediction%203.png)
 
