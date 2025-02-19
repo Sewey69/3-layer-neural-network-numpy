@@ -17,9 +17,13 @@ Or download the zipped version from this repo.
 - Place `train.csv` in the project directory.  
 - Run the Jupyter Notebook to train the model.  
 
-**Screenshots:**
-![Sample Prediction](Screenshots/Accuracy%20graph.png)
-![Sample Prediction](Screenshots/prediction%201.png)
-![Sample Prediction](Screenshots/prediction%202.png)
-![Sample Prediction](Screenshots/prediction%203.png)
+## Screenshots
+
+### Accuracy Graph
+![Accuracy Graph](Screenshots/Accuracy%20graph.png)
+
+### Sample Predictions
+![Prediction 1](Screenshots/prediction%201.png)  
+![Prediction 2](Screenshots/prediction%202.png)  
+![Prediction 3](Screenshots/prediction%203.png)
 
